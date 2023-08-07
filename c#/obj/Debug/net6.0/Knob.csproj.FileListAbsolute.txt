@@ -1,0 +1,15 @@
+C:\Users\sr\source\repos\Knob\bin\Debug\net6.0\Knob.exe
+C:\Users\sr\source\repos\Knob\bin\Debug\net6.0\Knob.deps.json
+C:\Users\sr\source\repos\Knob\bin\Debug\net6.0\Knob.runtimeconfig.json
+C:\Users\sr\source\repos\Knob\bin\Debug\net6.0\Knob.dll
+C:\Users\sr\source\repos\Knob\bin\Debug\net6.0\Knob.pdb
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\Knob.csproj.AssemblyReference.cache
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\Knob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\Knob.AssemblyInfoInputs.cache
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\Knob.AssemblyInfo.cs
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\Knob.csproj.CoreCompileInputs.cache
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\Knob.dll
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\refint\Knob.dll
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\Knob.pdb
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\Knob.genruntimeconfig.cache
+C:\Users\sr\source\repos\Knob\obj\Debug\net6.0\ref\Knob.dll

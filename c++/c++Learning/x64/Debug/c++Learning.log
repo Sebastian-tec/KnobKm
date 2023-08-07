@@ -1,0 +1,3 @@
+﻿  c++Learning.cpp
+C:\Users\sr\source\repos\c++Learning\c++Learning\c++Learning.cpp(17,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  c++Learning.vcxproj -> C:\Users\sr\source\repos\c++Learning\x64\Debug\c++Learning.exe
